@@ -1,5 +1,6 @@
 # Word Cloud
-This repo contains python code to create a word cloud from a .csv file that contains a columns of words and a column of desired word frequencies. The follwoing are the default parameters:
+This repo contains python code to create a word cloud from a .csv file that contains a columns of words and a column of desired word frequencies.  
+The following are the default parameters:
 WordCloud(
     font_path=None,
     width=400,
